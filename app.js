@@ -16,8 +16,8 @@ contactForm.addEventListener('submit', function (e) {
   const subject = `New Message From ${name}`;
   
   const whatsappMesage = `Name: ${name} \n Email: ${email} \n ${message}`;
-  const recipientNumber = `+2349035569124`;
-  const whatappUrl = `https://wa.me/${+2349035569124}?text=${encodeURIComponent(whatsappMesage)}`;
+  const recipientNumber = `+2348076157744`;
+  const whatappUrl = `https://wa.me/${+2348076157744}?text=${encodeURIComponent(whatsappMesage)}`;
   window.location.href = whatappUrl;
   alert(`Your message has been sent via WhatsApp`);
 });
