@@ -64,13 +64,14 @@ li {
 }
 
 .img1 {
-  width: 90%;
+  width: 80%;
 }
 
 #home {
   text-align: center;
   margin: 40px 0 40px 0;
   padding: 0 20px;
+  border: 2px solid red;
 }
 
 #services h2 {
@@ -90,7 +91,6 @@ li {
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  width: 90%;
 }
 
 .service {
