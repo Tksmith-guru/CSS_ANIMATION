@@ -63,6 +63,10 @@ li {
   list-style: none;
 }
 
+.img1 {
+  width: 90%;
+}
+
 #home {
   text-align: center;
   margin: 40px 0 40px 0;
@@ -194,6 +198,10 @@ footer {
 
   header .logo {
     font-size: 32px;
+  }
+
+  .img1 {
+    width: 100%;
   }
 
   nav {
