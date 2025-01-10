@@ -101,5 +101,9 @@ h1 {
   .imag {
     height: 100px;
   }
+
+  .header {
+    padding: 20px 0 30px 0;
+  }
 }
 
