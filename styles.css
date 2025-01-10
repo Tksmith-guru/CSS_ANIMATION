@@ -25,13 +25,18 @@ main {
   width: 100%;
 }
 
+header {
+  padding: 10px 10px;
+}
+
 .header, .footer {
   text-align: center;
-  padding: 10px 5px;
+  padding: 10px;
   background-color: #007BFF;
   color: #fff;
   width: 100%;
 }
+
 
 .content {
   text-align: center;
