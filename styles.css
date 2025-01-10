@@ -17,9 +17,9 @@ main {
 }
 
 .container {
-  /* max-width: 1200px; */
-  /* margin: auto; */
-  /* padding: 20px; */
+  /* max-width: 1200px;
+  margin: auto;
+  padding: 0 20px; */
   background-color: #fff;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   width: 100%;
@@ -27,7 +27,7 @@ main {
 
 .header, .footer {
   text-align: center;
-  padding: 10px 0;
+  padding: 10px 5px;
   background-color: #007BFF;
   color: #fff;
   width: 100%;
